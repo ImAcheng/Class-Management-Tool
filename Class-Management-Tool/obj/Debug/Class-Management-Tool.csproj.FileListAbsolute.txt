@@ -1,0 +1,10 @@
+E:\Coding Projects\Class-Management-Tool\Class-Management-Tool\bin\Debug\Class-Management-Tool.exe.config
+E:\Coding Projects\Class-Management-Tool\Class-Management-Tool\bin\Debug\Class-Management-Tool.exe
+E:\Coding Projects\Class-Management-Tool\Class-Management-Tool\bin\Debug\Class-Management-Tool.pdb
+E:\Coding Projects\Class-Management-Tool\Class-Management-Tool\obj\Debug\Class-Management-Tool.csproj.AssemblyReference.cache
+E:\Coding Projects\Class-Management-Tool\Class-Management-Tool\obj\Debug\Class_Management_Tool.FormMain.resources
+E:\Coding Projects\Class-Management-Tool\Class-Management-Tool\obj\Debug\Class_Management_Tool.Properties.Resources.resources
+E:\Coding Projects\Class-Management-Tool\Class-Management-Tool\obj\Debug\Class-Management-Tool.csproj.GenerateResource.cache
+E:\Coding Projects\Class-Management-Tool\Class-Management-Tool\obj\Debug\Class-Management-Tool.csproj.CoreCompileInputs.cache
+E:\Coding Projects\Class-Management-Tool\Class-Management-Tool\obj\Debug\Class-Management-Tool.exe
+E:\Coding Projects\Class-Management-Tool\Class-Management-Tool\obj\Debug\Class-Management-Tool.pdb
