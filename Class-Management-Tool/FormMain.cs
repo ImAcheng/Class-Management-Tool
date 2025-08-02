@@ -8,15 +8,24 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Runtime.InteropServices;
+using System.Runtime.CompilerServices;
 
 namespace Class_Management_Tool {
     public partial class FormMain : Form {
-
         public FormMain() {
             InitializeComponent();
         }
 
+        // Objects
+        public static FormMain instance;
+        public static Account CurrentAccount;
+
+        // User Controls
+        public static UserControl ucLogin = new UCLogin();
+        public static UserControl ucMainFn = new UCMainPage();
+
         private void FormMain_Load(object sender, EventArgs e) {
+            instance = this;
             this.FormBorderStyle = FormBorderStyle.FixedSingle;
 
             // events
@@ -30,6 +39,11 @@ namespace Class_Management_Tool {
                 ctrl.MouseUp += WindowsDrag_MouseUp;
                 ctrl.MouseMove += WindowsDrag_MouseMove;
             }
+
+            // uc
+            ucLogin.Parent = panelMain;
+            ucMainFn.Parent = panelMain;
+            ChangeUC(ucLogin);
 
             this.FormBorderStyle = FormBorderStyle.None;
         }
@@ -70,6 +84,30 @@ namespace Class_Management_Tool {
         #endregion
 
         #region methods
+        public void ChangeUC(UserControl target) {
+            foreach (Control ctrl in panelMain.Controls) {
+                if (ctrl == target) {
+                    ctrl.Show();
+                    this.ClientSize = new Size(ctrl.Width, ctrl.Height + panelTopBar.Height);
+                    // MessageBox.Show($"({this.ClientSize.Width},{this.ClientSize.Height})");
+                }
+                else { ctrl.Hide(); }
+            }
+        }
+
+        public void Login(Account acc) {
+            CurrentAccount = acc;
+            ChangeUC(ucMainFn);
+            UCMainPage.instance.UpdateDisplayData();
+        }
+
+        public void Logout() {
+            if (MessageBox.Show("Are you sure to log out now?", "Log out", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes) {
+                CurrentAccount = null;
+                MessageBox.Show("Successfully logged you out.", "Log out", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                ChangeUC(ucLogin);
+            }
+        }
         #endregion
     }
 }

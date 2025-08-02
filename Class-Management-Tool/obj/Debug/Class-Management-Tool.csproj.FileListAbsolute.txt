@@ -8,3 +8,8 @@ E:\Coding Projects\Class-Management-Tool\Class-Management-Tool\obj\Debug\Class-M
 E:\Coding Projects\Class-Management-Tool\Class-Management-Tool\obj\Debug\Class-Management-Tool.csproj.CoreCompileInputs.cache
 E:\Coding Projects\Class-Management-Tool\Class-Management-Tool\obj\Debug\Class-Management-Tool.exe
 E:\Coding Projects\Class-Management-Tool\Class-Management-Tool\obj\Debug\Class-Management-Tool.pdb
+E:\Coding Projects\Class-Management-Tool\Class-Management-Tool\obj\Debug\Class_Management_Tool.UCLogin.resources
+E:\Coding Projects\Class-Management-Tool\Class-Management-Tool\bin\Debug\Newtonsoft.Json.dll
+E:\Coding Projects\Class-Management-Tool\Class-Management-Tool\obj\Debug\Class-Ma.2C89B151.Up2Date
+E:\Coding Projects\Class-Management-Tool\Class-Management-Tool\obj\Debug\Class_Management_Tool.UCMainPage.resources
+E:\Coding Projects\Class-Management-Tool\Class-Management-Tool\obj\Debug\Class_Management_Tool.UCMainFn_PageMain.resources

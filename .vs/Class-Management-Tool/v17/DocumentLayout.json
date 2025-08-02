@@ -3,11 +3,39 @@
   "WorkspaceRootPath": "E:\\Coding Projects\\Class-Management-Tool\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A4511A2-C8BF-4073-AD7A-144215FE9226}|Class-Management-Tool\\Class-Management-Tool.csproj|e:\\coding projects\\class-management-tool\\class-management-tool\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3A4511A2-C8BF-4073-AD7A-144215FE9226}|Class-Management-Tool\\Class-Management-Tool.csproj|e:\\coding projects\\class-management-tool\\class-management-tool\\ucmainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A4511A2-C8BF-4073-AD7A-144215FE9226}|Class-Management-Tool\\Class-Management-Tool.csproj|solutionrelative:class-management-tool\\ucmainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4511A2-C8BF-4073-AD7A-144215FE9226}|Class-Management-Tool\\Class-Management-Tool.csproj|E:\\Coding Projects\\Class-Management-Tool\\class-management-tool\\ucmainfn_pagemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A4511A2-C8BF-4073-AD7A-144215FE9226}|Class-Management-Tool\\Class-Management-Tool.csproj|solutionrelative:class-management-tool\\ucmainfn_pagemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4511A2-C8BF-4073-AD7A-144215FE9226}|Class-Management-Tool\\Class-Management-Tool.csproj|E:\\Coding Projects\\Class-Management-Tool\\class-management-tool\\ucmainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4511A2-C8BF-4073-AD7A-144215FE9226}|Class-Management-Tool\\Class-Management-Tool.csproj|solutionrelative:class-management-tool\\ucmainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4511A2-C8BF-4073-AD7A-144215FE9226}|Class-Management-Tool\\Class-Management-Tool.csproj|E:\\Coding Projects\\Class-Management-Tool\\class-management-tool\\uclogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A4511A2-C8BF-4073-AD7A-144215FE9226}|Class-Management-Tool\\Class-Management-Tool.csproj|solutionrelative:class-management-tool\\uclogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4511A2-C8BF-4073-AD7A-144215FE9226}|Class-Management-Tool\\Class-Management-Tool.csproj|E:\\Coding Projects\\Class-Management-Tool\\class-management-tool\\uclogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4511A2-C8BF-4073-AD7A-144215FE9226}|Class-Management-Tool\\Class-Management-Tool.csproj|solutionrelative:class-management-tool\\uclogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4511A2-C8BF-4073-AD7A-144215FE9226}|Class-Management-Tool\\Class-Management-Tool.csproj|E:\\Coding Projects\\Class-Management-Tool\\class-management-tool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4511A2-C8BF-4073-AD7A-144215FE9226}|Class-Management-Tool\\Class-Management-Tool.csproj|solutionrelative:class-management-tool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4511A2-C8BF-4073-AD7A-144215FE9226}|Class-Management-Tool\\Class-Management-Tool.csproj|E:\\Coding Projects\\Class-Management-Tool\\class-management-tool\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4511A2-C8BF-4073-AD7A-144215FE9226}|Class-Management-Tool\\Class-Management-Tool.csproj|solutionrelative:class-management-tool\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4511A2-C8BF-4073-AD7A-144215FE9226}|Class-Management-Tool\\Class-Management-Tool.csproj|E:\\Coding Projects\\Class-Management-Tool\\class-management-tool\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3A4511A2-C8BF-4073-AD7A-144215FE9226}|Class-Management-Tool\\Class-Management-Tool.csproj|solutionrelative:class-management-tool\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A4511A2-C8BF-4073-AD7A-144215FE9226}|Class-Management-Tool\\Class-Management-Tool.csproj|e:\\coding projects\\class-management-tool\\class-management-tool\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A4511A2-C8BF-4073-AD7A-144215FE9226}|Class-Management-Tool\\Class-Management-Tool.csproj|E:\\Coding Projects\\Class-Management-Tool\\class-management-tool\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A4511A2-C8BF-4073-AD7A-144215FE9226}|Class-Management-Tool\\Class-Management-Tool.csproj|solutionrelative:class-management-tool\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,32 +46,114 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UCMainPage.cs",
+              "DocumentMoniker": "E:\\Coding Projects\\Class-Management-Tool\\Class-Management-Tool\\UCMainPage.cs",
+              "RelativeDocumentMoniker": "Class-Management-Tool\\UCMainPage.cs",
+              "ToolTip": "E:\\Coding Projects\\Class-Management-Tool\\Class-Management-Tool\\UCMainPage.cs",
+              "RelativeToolTip": "Class-Management-Tool\\UCMainPage.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T12:11:10.779Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "UCMainFn_PageMain.cs [Design]",
+              "DocumentMoniker": "E:\\Coding Projects\\Class-Management-Tool\\Class-Management-Tool\\UCMainFn_PageMain.cs",
+              "RelativeDocumentMoniker": "Class-Management-Tool\\UCMainFn_PageMain.cs",
+              "ToolTip": "E:\\Coding Projects\\Class-Management-Tool\\Class-Management-Tool\\UCMainFn_PageMain.cs [Design]",
+              "RelativeToolTip": "Class-Management-Tool\\UCMainFn_PageMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T14:56:58.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UCMainPage.cs [Design]",
+              "DocumentMoniker": "E:\\Coding Projects\\Class-Management-Tool\\Class-Management-Tool\\UCMainPage.cs",
+              "RelativeDocumentMoniker": "Class-Management-Tool\\UCMainPage.cs",
+              "ToolTip": "E:\\Coding Projects\\Class-Management-Tool\\Class-Management-Tool\\UCMainPage.cs [Design]",
+              "RelativeToolTip": "Class-Management-Tool\\UCMainPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T12:00:11.366Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Account.cs",
+              "DocumentMoniker": "E:\\Coding Projects\\Class-Management-Tool\\Class-Management-Tool\\Account.cs",
+              "RelativeDocumentMoniker": "Class-Management-Tool\\Account.cs",
+              "ToolTip": "E:\\Coding Projects\\Class-Management-Tool\\Class-Management-Tool\\Account.cs",
+              "RelativeToolTip": "Class-Management-Tool\\Account.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAswCoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T11:23:11.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Coding Projects\\Class-Management-Tool\\Class-Management-Tool\\Program.cs",
+              "RelativeDocumentMoniker": "Class-Management-Tool\\Program.cs",
+              "ToolTip": "E:\\Coding Projects\\Class-Management-Tool\\Class-Management-Tool\\Program.cs",
+              "RelativeToolTip": "Class-Management-Tool\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T10:16:08.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UCLogin.cs",
+              "DocumentMoniker": "E:\\Coding Projects\\Class-Management-Tool\\Class-Management-Tool\\UCLogin.cs",
+              "RelativeDocumentMoniker": "Class-Management-Tool\\UCLogin.cs",
+              "ToolTip": "E:\\Coding Projects\\Class-Management-Tool\\Class-Management-Tool\\UCLogin.cs",
+              "RelativeToolTip": "Class-Management-Tool\\UCLogin.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAowDIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T09:56:13.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UCLogin.cs [Design]",
+              "DocumentMoniker": "E:\\Coding Projects\\Class-Management-Tool\\Class-Management-Tool\\UCLogin.cs",
+              "RelativeDocumentMoniker": "Class-Management-Tool\\UCLogin.cs",
+              "ToolTip": "E:\\Coding Projects\\Class-Management-Tool\\Class-Management-Tool\\UCLogin.cs [Design]",
+              "RelativeToolTip": "Class-Management-Tool\\UCLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T09:50:12.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "FormMain.cs",
               "DocumentMoniker": "E:\\Coding Projects\\Class-Management-Tool\\Class-Management-Tool\\FormMain.cs",
               "RelativeDocumentMoniker": "Class-Management-Tool\\FormMain.cs",
               "ToolTip": "E:\\Coding Projects\\Class-Management-Tool\\Class-Management-Tool\\FormMain.cs",
               "RelativeToolTip": "Class-Management-Tool\\FormMain.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAuwDwAAAA/AAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAwGgAAACQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T08:56:39.847Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T08:56:39.847Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "FormMain.cs [Design]",
               "DocumentMoniker": "E:\\Coding Projects\\Class-Management-Tool\\Class-Management-Tool\\FormMain.cs",
               "RelativeDocumentMoniker": "Class-Management-Tool\\FormMain.cs",
               "ToolTip": "E:\\Coding Projects\\Class-Management-Tool\\Class-Management-Tool\\FormMain.cs [Design]",
               "RelativeToolTip": "Class-Management-Tool\\FormMain.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T08:50:18.341Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-08-02T08:50:18.341Z"
             }
           ]
         }
