@@ -35,10 +35,10 @@
             this.button8 = new System.Windows.Forms.Button();
             this.button9 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
-            this.btn_SignInSystem = new System.Windows.Forms.Button();
+            this.btn_GoToEconomySys = new System.Windows.Forms.Button();
+            this.btn_GoToPunishmentSys = new System.Windows.Forms.Button();
+            this.btn_GoToDutyStudentSys = new System.Windows.Forms.Button();
+            this.btn_GoToSignInSys = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // button10
@@ -191,65 +191,65 @@
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(128, 128);
             this.button4.TabIndex = 22;
-            this.button4.Text = "Daily Sign In";
+            this.button4.Text = "Members";
             this.button4.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.button4.UseVisualStyleBackColor = false;
             // 
-            // button3
+            // btn_GoToEconomySys
             // 
-            this.button3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.button3.FlatAppearance.BorderSize = 0;
-            this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button3.Image = ((System.Drawing.Image)(resources.GetObject("button3.Image")));
-            this.button3.Location = new System.Drawing.Point(603, 72);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(128, 128);
-            this.button3.TabIndex = 21;
-            this.button3.Text = "Daily Sign In";
-            this.button3.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
-            this.button3.UseVisualStyleBackColor = false;
+            this.btn_GoToEconomySys.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.btn_GoToEconomySys.FlatAppearance.BorderSize = 0;
+            this.btn_GoToEconomySys.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_GoToEconomySys.Image = ((System.Drawing.Image)(resources.GetObject("btn_GoToEconomySys.Image")));
+            this.btn_GoToEconomySys.Location = new System.Drawing.Point(603, 72);
+            this.btn_GoToEconomySys.Name = "btn_GoToEconomySys";
+            this.btn_GoToEconomySys.Size = new System.Drawing.Size(128, 128);
+            this.btn_GoToEconomySys.TabIndex = 21;
+            this.btn_GoToEconomySys.Text = "Economy";
+            this.btn_GoToEconomySys.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.btn_GoToEconomySys.UseVisualStyleBackColor = false;
             // 
-            // button2
+            // btn_GoToPunishmentSys
             // 
-            this.button2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.button2.FlatAppearance.BorderSize = 0;
-            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button2.Image = ((System.Drawing.Image)(resources.GetObject("button2.Image")));
-            this.button2.Location = new System.Drawing.Point(433, 72);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(128, 128);
-            this.button2.TabIndex = 20;
-            this.button2.Text = "Daily Sign In";
-            this.button2.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
-            this.button2.UseVisualStyleBackColor = false;
+            this.btn_GoToPunishmentSys.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.btn_GoToPunishmentSys.FlatAppearance.BorderSize = 0;
+            this.btn_GoToPunishmentSys.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_GoToPunishmentSys.Image = ((System.Drawing.Image)(resources.GetObject("btn_GoToPunishmentSys.Image")));
+            this.btn_GoToPunishmentSys.Location = new System.Drawing.Point(433, 72);
+            this.btn_GoToPunishmentSys.Name = "btn_GoToPunishmentSys";
+            this.btn_GoToPunishmentSys.Size = new System.Drawing.Size(128, 128);
+            this.btn_GoToPunishmentSys.TabIndex = 20;
+            this.btn_GoToPunishmentSys.Text = "Punishment";
+            this.btn_GoToPunishmentSys.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.btn_GoToPunishmentSys.UseVisualStyleBackColor = false;
             // 
-            // button1
+            // btn_GoToDutyStudentSys
             // 
-            this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.button1.FlatAppearance.BorderSize = 0;
-            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button1.Image = ((System.Drawing.Image)(resources.GetObject("button1.Image")));
-            this.button1.Location = new System.Drawing.Point(263, 72);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(128, 128);
-            this.button1.TabIndex = 19;
-            this.button1.Text = "Daily Sign In";
-            this.button1.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
-            this.button1.UseVisualStyleBackColor = false;
+            this.btn_GoToDutyStudentSys.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.btn_GoToDutyStudentSys.FlatAppearance.BorderSize = 0;
+            this.btn_GoToDutyStudentSys.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_GoToDutyStudentSys.Image = ((System.Drawing.Image)(resources.GetObject("btn_GoToDutyStudentSys.Image")));
+            this.btn_GoToDutyStudentSys.Location = new System.Drawing.Point(263, 72);
+            this.btn_GoToDutyStudentSys.Name = "btn_GoToDutyStudentSys";
+            this.btn_GoToDutyStudentSys.Size = new System.Drawing.Size(128, 128);
+            this.btn_GoToDutyStudentSys.TabIndex = 19;
+            this.btn_GoToDutyStudentSys.Text = "Duty Student";
+            this.btn_GoToDutyStudentSys.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.btn_GoToDutyStudentSys.UseVisualStyleBackColor = false;
             // 
-            // btn_SignInSystem
+            // btn_GoToSignInSys
             // 
-            this.btn_SignInSystem.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.btn_SignInSystem.FlatAppearance.BorderSize = 0;
-            this.btn_SignInSystem.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_SignInSystem.Image = ((System.Drawing.Image)(resources.GetObject("btn_SignInSystem.Image")));
-            this.btn_SignInSystem.Location = new System.Drawing.Point(93, 72);
-            this.btn_SignInSystem.Name = "btn_SignInSystem";
-            this.btn_SignInSystem.Size = new System.Drawing.Size(128, 128);
-            this.btn_SignInSystem.TabIndex = 18;
-            this.btn_SignInSystem.Text = "Daily Sign In";
-            this.btn_SignInSystem.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
-            this.btn_SignInSystem.UseVisualStyleBackColor = false;
+            this.btn_GoToSignInSys.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.btn_GoToSignInSys.FlatAppearance.BorderSize = 0;
+            this.btn_GoToSignInSys.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_GoToSignInSys.Image = ((System.Drawing.Image)(resources.GetObject("btn_GoToSignInSys.Image")));
+            this.btn_GoToSignInSys.Location = new System.Drawing.Point(93, 72);
+            this.btn_GoToSignInSys.Name = "btn_GoToSignInSys";
+            this.btn_GoToSignInSys.Size = new System.Drawing.Size(128, 128);
+            this.btn_GoToSignInSys.TabIndex = 18;
+            this.btn_GoToSignInSys.Text = "Daily Sign In";
+            this.btn_GoToSignInSys.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.btn_GoToSignInSys.UseVisualStyleBackColor = false;
             // 
             // UCMainFn_PageMain
             // 
@@ -266,12 +266,12 @@
             this.Controls.Add(this.button8);
             this.Controls.Add(this.button9);
             this.Controls.Add(this.button4);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
-            this.Controls.Add(this.btn_SignInSystem);
+            this.Controls.Add(this.btn_GoToEconomySys);
+            this.Controls.Add(this.btn_GoToPunishmentSys);
+            this.Controls.Add(this.btn_GoToDutyStudentSys);
+            this.Controls.Add(this.btn_GoToSignInSys);
             this.Font = new System.Drawing.Font("Microsoft JhengHei UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.Margin = new System.Windows.Forms.Padding(5);
             this.Name = "UCMainFn_PageMain";
             this.Size = new System.Drawing.Size(1000, 590);
             this.ResumeLayout(false);
@@ -291,9 +291,9 @@
         private System.Windows.Forms.Button button8;
         private System.Windows.Forms.Button button9;
         private System.Windows.Forms.Button button4;
-        private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button btn_SignInSystem;
+        private System.Windows.Forms.Button btn_GoToEconomySys;
+        private System.Windows.Forms.Button btn_GoToPunishmentSys;
+        private System.Windows.Forms.Button btn_GoToDutyStudentSys;
+        private System.Windows.Forms.Button btn_GoToSignInSys;
     }
 }

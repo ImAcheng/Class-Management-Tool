@@ -58,6 +58,7 @@ namespace Class_Management_Tool {
         }
 
         private void btn_Exit_Click(object sender, EventArgs e) {
+            FormMain.instance.FormBorderStyle = FormBorderStyle.FixedSingle;
             Environment.Exit(0);
         }
     }
